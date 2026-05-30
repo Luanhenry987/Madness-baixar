@@ -1,2 +1,0 @@
-# MBP
-Madness Brazilian Project
